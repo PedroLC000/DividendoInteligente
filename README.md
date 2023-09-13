@@ -10,10 +10,9 @@ streamlit run main.py
 
 ## ☕ Resultado
 
-Caso existam ações que anunciam dividendos no mês em que o arquivo foi executado, teremos então:
-
-* Quais são esses ativos 
 * A média do dividend yield nos últimos 5 anos 
-* O preço teto 
+* O preço teto baseado no dividend yield desejado
 * A cotação mais recente
+* Status para compra ou não
+* Se a empresa costuma pagar dividendo no mês de execução do arquivo
 
